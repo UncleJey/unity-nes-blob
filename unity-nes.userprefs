@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controls.cs" Line="132" Column="20" />
+      <File FileName="Assets\nescafe\Nescafe\Controller.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\nescafe\Nescafe\Ppu.cs" line="433" offsetX="592" offsetY="6912" expression="colorNum" liveUpdate="False" />
+    <Watch file="Assets\nescafe\Nescafe\Ppu.cs" line="432" offsetX="494" offsetY="6896" expression="paletteNum" liveUpdate="False" />
+    <Watch file="Assets\nescafe\Nescafe\Ppu.cs" line="504" offsetX="655" offsetY="8048" expression="addr" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="31" offsetX="422" offsetY="394" expression="i" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="31" offsetX="531" offsetY="395" expression="j" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="31" offsetX="422" offsetY="426" expression="ii" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="31" offsetX="531" offsetY="427" expression="jj" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="40" offsetX="340" offsetY="624" expression="xx" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TileHolder.cs" line="41" offsetX="460" offsetY="625" expression="yy" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
